@@ -1,5 +1,10 @@
 
 /* Your CSS Code here. */
+.moviePiv{
+	height: 700px;
+	width: 550px;
+	opacity: 500px;
+}
 .movieDetail{
 	position:relative;
 	top:5px;
